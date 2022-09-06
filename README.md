@@ -7,6 +7,9 @@ You can find me on:
 - Twitter as [@innovarew](https://twitter.com/innovarew)
 - Github as [@innovarew](https://github.com/innovarew) (you are here)
 
+
+![innovarew's github stats](https://github-readme-stats.vercel.app/api?username=innovarew&show_icons=true&count_private=true)
+
 <!---
 - 👋 Hi, I’m @gmt4
 - 👀 I’m interested in ...
