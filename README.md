@@ -8,12 +8,19 @@ You can find me on:
 - Github as [@innovarew](https://github.com/innovarew) (you are here)
 
 
-![innovarew's github stats](https://github-readme-stats.vercel.app/api?username=innovarew&show_icons=true&count_private=true)
+<table>
+<thead>
+<tr>
+<td>
 
-<!---
-- 👋 Hi, I’m @gmt4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=innovarew&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=dark)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innovarew&theme=dark)
+
+</td>
+</tr>
+</thead>
+</table>
